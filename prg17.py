@@ -1,0 +1,14 @@
+rno=int(input("Enter any roll number: "))
+name=input("Enter any name: ")
+M1=int(input("Enter marks of Maths : "))
+M2=int(input("Enter marks of computer : "))
+M3=int(input("Enter marks of Elctronics : "))
+total=M1+M2+M3
+per=total/3
+print(" Roll No. = ",rno)
+print(" Name = ",name)
+print(" Marks of Maths = ",M1)
+print(" Marks of computer = ",M2)
+print(" Marks of Electronics = ",M3)
+print(" total = ",total)
+print(" Percentage = ",per)
