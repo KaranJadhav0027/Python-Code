@@ -1,6 +1,5 @@
 # Import numpy for numerical operations
 import numpy as np
-
 # ---------------------------------------------------------
 # STEP 1 : Define Input Features
 # ---------------------------------------------------------
